@@ -4,7 +4,7 @@ Hi
 Project Name : QWERTY
 <br>
 <br>
-This site will assist you to meet your diet goals. No, we are not saying you to pull up the apron and make a rich diet for you, we can all do it by the daily available food in your hostel mess or things made at your home. We all need is just little addtion or small changes in your eating habits. Through which you will be able to reach your health goals without even an extra effort. 
+This site will assist you to meet your diet goals. We can all do it by the daily available food in your hostel mess or things made at your home. The actual need is just to make little addtion or small changes in your eating habits. Through which you will be able to reach your health goals without even an extra effort. 
 <br>
 <br>
 We will take some normal inputs from you such as your height, weight, age, gender, the diet goal to which you are heading towards, be it a sedentary lifestyle or fat loss journey, and the most important thing i.e. your FOOD MENU.
